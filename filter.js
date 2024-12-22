@@ -257,17 +257,35 @@ const filterByDate = function (events, date) {
 // [{name: "Alice", salary: 5000}, {name: "Bob", salary: 7000}] 
 // => [{name: "Bob", salary: 7000}]
 const filterBySalary = function (employees, salary) {
-
+  return employees.filter(function (element) {
+    return element.salary > salary;
+  });
 };
 
-// filter orders with a quantity greater than a given number [{orderId: 1, quantity: 10}, {orderId: 2, quantity: 5}] => [{orderId: 1, quantity: 10}]
-const filterByQuantity = function (orders, quantity) { };
+// filter orders with a quantity greater than a given number 
+// [{orderId: 1, quantity: 10}, {orderId: 2, quantity: 5}] 
+// => [{orderId: 1, quantity: 10}]
+const filterByQuantity = function (orders, quantity) {
+  return orders.filter(function (element) {
+    return element.quantity > quantity;
+  });
+};
 
-// filter books published after a certain year [{title: "Book1", year: 2020}, {title: "Book2", year: 2022}] => [{title: "Book2", year: 2022}]
-const filterByYear = function (books, year) { };
+// filter books published after a certain year [{title: "Book1", year: 2020},
+//  {title: "Book2", year: 2022}] => [{title: "Book2", year: 2022}]
+const filterByYear = function (books, year) {
+  return books.filter(function (element) {
+    return element.year > year;
+  });
+};
 
-// filter students with a grade higher than a given threshold in a specific subject [{name: "Alice", grades: {math: 90, science: 80}}, {name: "Bob", grades: {math: 70, science: 85}}] => [{name: "Alice", grades: {math: 90, science: 80}}]
-const filterBySubjectGrade = function (students, subject, threshold) { };
+// filter students with a grade higher than a given threshold in a specific 
+// subject [{name: "Alice", grades: {math: 90, science: 80}}, {name: "Bob",
+//  grades: {math: 70, science: 85}}] => [{name: "Alice", grades: 
+// {math: 90, science: 80}}]
+const filterBySubjectGrade = function (students, subject, threshold) {
+
+};
 
 // filter photos with a minimum number of likes [{id: 1, likes: 100}, {id: 2, likes: 50}] => [{id: 1, likes: 100}]
 const filterByLikes = function (photos, likes) { };
