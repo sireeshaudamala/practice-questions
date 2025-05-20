@@ -1,0 +1,105 @@
+ 107 Abhinav K
+  92 ShrutikaBhosale
+  84 baby-anjali
+  82 Anagh Paul
+  81 CharankumarSarlani
+  80 Hima Sai Charan
+  76 github-classroom[bot]
+  75 Pragna Marisa
+  74 Sanika
+  71 aadithyanmr
+  70 karthikeya
+  70 asmamulla786
+  69 sushanth
+  69 rajasurendrag
+  69 Akash-2006
+  66 Bhanu Teja Kommi
+  64 sameerabhanu
+  64 atulrwt23
+  61 V.L.Sai Ram
+  61 Krishna Dileep G
+  60 garimiddisuman
+  59 Mallika hajra
+  59 Dinesh Kuniyal
+  57 Meghashyam Varam
+  57 Ankita karn
+  56 vanamala jayanth
+  56 malleswaribatta
+  56 divyaramsaran
+  55 Neeraj Singh
+  53 sireeshaudamala
+  53 Pradeep Bisht
+  52 Beauti Sui
+  52 Akshay Kumar
+  51 Likhita Dangeti
+  51 Anushri Phadatare
+  50 dindeswarijagana
+  50 Favas K P
+  49 Devdatta Dhage
+  49 Amit Laitbar
+  48 haripriyagullipalli
+  48 bhagya lakshmi
+  48 Ajay Reddy
+  47 Madhavi
+  46 PruthviLahare
+  46 Praveen Kumar
+  45 siddhi-gargs
+  45 Dhanoj K C
+  44 Rohini Priyamvada
+  44 Krishnanand Mishra
+  44 Aboobacker Siddieq
+  43 Deepanshu Tiwari
+  42 Siddhardha Gunupuru
+  42 Mr-Vineet
+  42 Akash Dey
+  41 Rajnandini Bhosale
+  41 Adil Ali
+  40 varrapavani
+  40 likhithag0328
+  40 cricket_lover
+  40 Shikha Singh
+  39 Inkeet
+  39 Aman Shabbas K
+  35 Sahaj Singhal
+  34 pradeepmoganti1307
+  33 mounika kolliboyina
+  33 Shalu Jha
+  32 sarupmoni
+  32 kamisetty sudheer
+  31 saivenkat444
+  30 Sujoy U
+  27 Mohammad Siddique P S
+  27 Mohamad-sakib
+  26 Priyanksuh Pal
+  26 PrasadThatipudi
+  26 Gour Adhikary
+  22 AMAN KUMAR BHARTI
+  16 Shubhabrata Ghosh
+   2 Srijayanth Sridhar
+    
+
+
+2337 2024-10-09
+1045 2024-10-08
+ 554 2024-10-10
+   
+  76 2024-10-08 09
+   4 2024-10-09 15
+   4 2024-10-09 12
+   4 2024-10-09 12
+   3 2024-10-10 12
+   3 2024-10-09 16
+   3 2024-10-09 14
+   3 2024-10-09 14
+   3 2024-10-09 12
+   3 2024-10-09 12
+cut -f3- -d',' commits.txt|cut -f1-2 -d' '|cut -f1 -d':'|uniq -c|sort -rn|head >> dummy.txt   1 
+   1 2024-10-08 15
+   1 2024-10-08 15
+   1 2024-10-08 15
+   1 2024-10-08 15
+   1 2024-10-08 15
+   1 2024-10-08 15
+   1 2024-10-08 15
+   1 2024-10-08 15
+   1 2024-10-08 15
